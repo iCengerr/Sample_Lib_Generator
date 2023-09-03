@@ -1,0 +1,9 @@
+C:\Users\90530\source\repos\Sample Library Generator\Sample Library Generator\obj\Debug\Sample_Library_Generator.Form1.resources
+C:\Users\90530\source\repos\Sample Library Generator\Sample Library Generator\obj\Debug\Sample_Library_Generator.Properties.Resources.resources
+C:\Users\90530\source\repos\Sample Library Generator\Sample Library Generator\obj\Debug\Sample Library Generator.csproj.GenerateResource.cache
+C:\Users\90530\source\repos\Sample Library Generator\Sample Library Generator\obj\Debug\Sample Library Generator.csproj.CoreCompileInputs.cache
+C:\Users\90530\source\repos\Sample Library Generator\Sample Library Generator\bin\Debug\Sample Library Generator.exe.config
+C:\Users\90530\source\repos\Sample Library Generator\Sample Library Generator\bin\Debug\Sample Library Generator.exe
+C:\Users\90530\source\repos\Sample Library Generator\Sample Library Generator\bin\Debug\Sample Library Generator.pdb
+C:\Users\90530\source\repos\Sample Library Generator\Sample Library Generator\obj\Debug\Sample Library Generator.exe
+C:\Users\90530\source\repos\Sample Library Generator\Sample Library Generator\obj\Debug\Sample Library Generator.pdb
